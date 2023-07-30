@@ -1,0 +1,6 @@
+pandas
+sys
+spotify_key
+spotipy
+SpotifyClientCredentials
+numpy
