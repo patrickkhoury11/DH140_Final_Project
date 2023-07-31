@@ -1,4 +1,4 @@
 pandas
 spotipy
 numpy
-matplotlib.pyplot
+matplotlib
