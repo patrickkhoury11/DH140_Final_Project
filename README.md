@@ -6,4 +6,4 @@ This content was created by Patrick Khoury.
 
 Brief Synopsis:
 
-https://storage.googleapis.com/pr-newsroom-wp/1/2023/01/AppleCompetition-FTRHeader_V2-1440x733.png
+![spotify](https://storage.googleapis.com/pr-newsroom-wp/1/2023/01/AppleCompetition-FTRHeader_V2-1440x733.png)
