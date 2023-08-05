@@ -6,7 +6,7 @@ This content was created by Patrick Khoury.
 
 [Blog Link](https://patrickkhoury11.github.io/DH140_Final_Blog/posts/DH140_FinalProject.html)
 
-Brief Synopsis:
+Project Description:
 In this project, I set out to examine song popularity in the streaming age of music with my principal research question: what key factors might differentiate songs as more “streamable” than others? In order to examine key factors, I further broke my research down into the following sub-question sets:
 1. What is the relationship between key attributes and song genre? What is the relationship between key attributes and song era?
 2. What is the relationship between key attributes and song popularity?
